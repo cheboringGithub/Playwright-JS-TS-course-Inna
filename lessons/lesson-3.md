@@ -16,12 +16,11 @@ title: Занятие 3
 - Какие существуют популярные инструменты для CI/CD?
 - Что такое GitHub Actions и как они работают?
 - Как настроить простой workflow в GitHub Actions?
-- Как реализовать автоматический запуск тестов при пуше в репозиторий?
 
 **Полезные ссылки:**
 - [Документация GitHub Actions](https://docs.github.com/en/actions)
 - [Введение в CI/CD](https://www.redhat.com/ru/topics/devops/what-is-ci-cd)
-- [CI/CD на Википедии](https://ru.wikipedia.org/wiki/CI/CD)
+- [Видео: Владилен Минин — GitHub Actions (YouTube)](https://youtu.be/dJ7sWiOoK7g)
 
 ---
 
