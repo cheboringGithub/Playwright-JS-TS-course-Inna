@@ -5,7 +5,7 @@ title: Главная
 
 # Playwright JS/TS Course
 
-[Область знаний](knowledge-scope.md) | [Занятие 1](lessons/lesson-1.md) | [Занятие 2](lessons/lesson-2.md)
+[Область знаний](knowledge-scope.md) | [Занятие 1](lessons/lesson-1.md) | [Занятие 2](lessons/lesson-2.md) | [Занятие 3](lessons/lesson-3.md)
 
 ---
 
@@ -44,6 +44,17 @@ title: Главная
 
 ### Занятие 3
 **Теория:**
+- Тема 1: CI/CD (GitHub Actions, основы, настройка workflow)
+- Тема 2: Docker (контейнеризация, отличие от виртуализации, базовые команды)
+
+**Практика:**
+- Создание pipeline (workflow) в GitHub Actions, который запускается вручную (с выбором браузера и сьюта тестов)
+- Создание pipeline, который запускается по расписанию (cron)
+
+---
+
+### Занятие 4
+**Теория:**
 - Framework Architecture (Multilayered, PageObject, PageElements, Functional Helpers)
 - Loggers, Reporters
 - Fixtures
@@ -52,17 +63,6 @@ title: Главная
 - Архитектура: Page Objects, Page Elements, Helpers
 - Кастомизация логгера и репортера
 - Создание и настройка фикстур
-
----
-
-### Занятие 4
-**Теория:**
-- CI/CD
-- Docker (Virtualization vs Containerization)
-
-**Практика:**
-- Запуск тестов в pipeline (на MR и по расписанию)
-- Dockerfile для тестов (на базе стандартных образов)
 
 ---
 
